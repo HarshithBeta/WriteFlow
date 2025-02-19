@@ -8,7 +8,7 @@ import React from "react";
 import { Outlet } from "react-router-dom";
 
 const App = () => {
-    //app start
+    //app starts here
     const [loading, setLoading] = useState(true);
     const dispatch = useDispatch();
 
