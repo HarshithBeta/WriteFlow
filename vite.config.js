@@ -7,5 +7,6 @@ export default defineConfig({
     port: process.env.PORT || 4173, 
     host: "0.0.0.0", 
   },
+  allowedHosts: ["writeflow-eq7b.onrender.com"],
   plugins: [react(),tailwindcss(),],
 })
