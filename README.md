@@ -1,8 +1,6 @@
-# React + Vite
+Writeflow is a blogapp , where users can post blogs , edit or delete them
+Authentication - login and signup is done using Appwrite
+Appwrite is also used for backend and storing data and files in database
+Please use desktop mode or large screen as the website may not be responsive on smaller devices
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live Deployed website link: 
